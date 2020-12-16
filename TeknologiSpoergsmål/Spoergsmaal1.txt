@@ -5,6 +5,7 @@ For at kunne skabe forbindelse mellem PI'erne og serveren skal jeg kende ip adre
 
 2. Hvilke lag i OSI-7 lags modellen indgår disse parametre, og hvad er disse lags funktion i netværksstakken?
 
+Vi skal skabe en socketforbindelse så parametrene dækker over lagene 3 til 5, hvor lag 5 er der hvor sessionen etableres(socket) og i lag 4 bestemmes overførselsprotokollen, om det er tcp eller udp og til sidst har vi lag 3 der bestemmer hvilken ip adresse og port vi skal arbejde med.
 
 
 3. Hvilket operativsystem anvender en PI oftest, og hvilken familie af operativsystemer hører dette OS til i?

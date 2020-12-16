@@ -9,4 +9,4 @@ så har du mulighed for at gemme dataen lokalt og bruge den senere.
 2. Hvad er fordele og ulemper ved denne netværkstype, i forhold til alternativerne?
 Ved brug af WAN kræver det at der altid er internetadgang for at kunne læse data,
 hvis dette ikke er tilfældet vil det ikke være muligt at sende data og noget går tabt medmindre man gemmer det i en lokal cache.
-Ved brug af WLAN 
+Ved brug af WLAN kan dataen lagres når bilen er ude at køre men kan så først læses når bilen er hjemme igen i stedet for at læse på dataen hele tiden.
