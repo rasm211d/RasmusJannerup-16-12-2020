@@ -1,0 +1,13 @@
+1. Hvilke parametre på serveren og PI’erne skal du bruge, for at kunne sætte en socketforbindelse op?
+
+For at kunne skabe forbindelse mellem PI'erne og serveren skal jeg kende ip adressen på serveren og hvilken port den eksponere sig selv på. Her vil det derefter være muligt at skabe en forbindelse og sende data til serveren, som den så kan gøre med hvad den vil.
+
+
+2. Hvilke lag i OSI-7 lags modellen indgår disse parametre, og hvad er disse lags funktion i netværksstakken?
+
+
+
+3. Hvilket operativsystem anvender en PI oftest, og hvilken familie af operativsystemer hører dette OS til i?
+
+En raspberry pi anvender oftest en modificeret udgave af linux kaldet raspbian, som er et letvægts operativsystem med en brugerflade. Men det er også muligt at køre andre linux distroer på den. Den familie som raspbian hører under kaldes et General purpose operating system, modsat real time operating system der bruges når der skal gøres noget på et meget præcist tidspunkt.
+

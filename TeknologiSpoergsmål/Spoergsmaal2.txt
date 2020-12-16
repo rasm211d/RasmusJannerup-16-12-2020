@@ -1,3 +1,12 @@
-1. Hvilke parametre på serveren og PI’erne skal du bruge, for at kunne sætte en socketforbindelse op?
+1. Hvilken netværkstype vil du bruge til at forbinde sensor-systemet til ip netværket, og hvorfor?
 
-For at kunne skabe forbindelse mellem PI'erne og serveren skal jeg kende ip adressen på serveren og hvilken port den eksponere sig selv på. Her 
+Hvis data fra bilen skal kunne tilgås flere stedet i landet og ikke kun inde i bilen.
+Vil man skulle gøre brug af et WAN (wide area network) netværk så du har adgang til bilens data hvor der er internetadgang.
+Men hvis det bare er for at gemme data lokalt kan man bruge et WLAN (wireless local area network),
+så har du mulighed for at gemme dataen lokalt og bruge den senere.
+
+
+2. Hvad er fordele og ulemper ved denne netværkstype, i forhold til alternativerne?
+Ved brug af WAN kræver det at der altid er internetadgang for at kunne læse data,
+hvis dette ikke er tilfældet vil det ikke være muligt at sende data og noget går tabt medmindre man gemmer det i en lokal cache.
+Ved brug af WLAN 
