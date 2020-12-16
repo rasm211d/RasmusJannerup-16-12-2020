@@ -1,0 +1,22 @@
+.header {
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.container {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid;
+    padding: 8px;
+    text-align: left;
+}
+
