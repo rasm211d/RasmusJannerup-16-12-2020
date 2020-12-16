@@ -1,0 +1,23 @@
+{
+  "name": "rasmusjannerup-16-12-2020",
+  "version": "1.0.0",
+  "description": "Prøveeksamen i teknologi og programmering",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rasm211d/RasmusJannerup-16-12-2020.git"
+  },
+  "author": "Ramsus J",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rasm211d/RasmusJannerup-16-12-2020/issues"
+  },
+  "homepage": "https://github.com/rasm211d/RasmusJannerup-16-12-2020#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
